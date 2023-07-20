@@ -1,7 +1,7 @@
 # japanese_honorifics
 
 ## Citation
-Ryo Sekizawa and Hitomi Yanaka. 2023. Analyzing Syntactic Generalization Capacity of Pre-trained Language Models on Japanese Honorific Conversion In Proceedings of the 12th Joint Conference on Lexical and Computational Semantics (*SEM 2023), Toronto, Ontario. Association for Computational Linguistics.
+Ryo Sekizawa and Hitomi Yanaka. 2023. [Analyzing Syntactic Generalization Capacity of Pre-trained Language Models on Japanese Honorific Conversion](https://arxiv.org/abs/2306.03055) In Proceedings of the 12th Joint Conference on Lexical and Computational Semantics (*SEM 2023), Toronto, Ontario. Association for Computational Linguistics.
 
 ```
 @Inproceedings{sekizawa-yanaka-2023-generalization,
