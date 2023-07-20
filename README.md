@@ -9,7 +9,7 @@ Ryo Sekizawa and Hitomi Yanaka. 2023. [Analyzing Syntactic Generalization Capaci
     author = "Sekizawa, Ryo  and
       Yanaka, Hitomi",
     booktitle = "Proceedings of the 12th Joint Conference on Lexical and Computational Semantics",
-    month = "jul",
+    month = jul,
     year = "2023",
     address = "Toronto, Ontario",
     publisher = "Association for Computational Linguistics",
